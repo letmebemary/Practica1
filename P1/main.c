@@ -1,4 +1,4 @@
-/*
+/* Hula babe
  * TITLE: PROGRAMMING II LABS
  * SUBTITLE: Practical 1
  * AUTHOR 1: ***************************** LOGIN 1: **********
